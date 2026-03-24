@@ -4,7 +4,7 @@
 
 ## 👩‍🎓 Student Details
 **Name:** Tanisha Dangwal  
-**Register Number:** (Add your Reg No.)  
+**Register Number:** 25bce10590 
 **Branch:** B.Tech Computer Science Engineering  
 **Year:** 1st Year  
 
