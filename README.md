@@ -1,8 +1,8 @@
-# 📌 Digital Literacy Portfolio
+#  Digital Literacy Portfolio
 
 ---
 
-## 👩‍🎓 Student Details
+##  Student Details
 **Name:** Tanisha Dangwal  
 **Register Number:** 25bce10590 
 **Branch:** B.Tech Computer Science Engineering  
@@ -10,14 +10,14 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 This project is developed as part of my role as a Student Digital Ambassador. The objective of this project is to create awareness about digital literacy and help students understand how to use digital tools effectively, communicate professionally, and stay safe online.
 
 The project covers five modules, each focusing on different aspects such as infographic creation, digital portfolio development, coding and collaboration platforms, email etiquette, and cybercrime awareness. It provides both theoretical understanding and practical exposure to essential digital skills required in today’s academic and professional environment.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Digital-Literacy/
 │
 ├── README.md
@@ -33,34 +33,34 @@ Digital-Literacy/
 
 ---
 
-## 📌 Task Details
+##  Task Details
 
-### 🔹 Task 1: Digital Literacy Infographic
+###  Task 1: Digital Literacy Infographic
 Designed a one-page infographic using Canva covering key topics such as digital literacy definition, useful tools, safe internet practices, professional online presence, and email etiquette.
 
 ---
 
-### 🔹 Task 2: Digital Portfolio
+###  Task 2: Digital Portfolio
 Created and updated profiles on GitHub, Kaggle, Stack Overflow, and LinkedIn to build a strong professional digital presence and showcase skills.
 
 ---
 
-### 🔹 Task 3: Coding & Collaboration Platforms
+###  Task 3: Coding & Collaboration Platforms
 Completed a beginner-level coding challenge on HackerRank and created a Google Form quiz on digital literacy. Linked responses to Google Sheets for analysis.
 
 ---
 
-### 🔹 Task 4: Email Etiquette
+###  Task 4: Email Etiquette
 Drafted two professional emails and created a checklist of social media do’s and don’ts to promote responsible digital communication.
 
 ---
 
-### 🔹 Task 5: Cybercrime Awareness
+###  Task 5: Cybercrime Awareness
 Prepared a case study on UPI/online payment fraud and created a prevention checklist to spread awareness about online safety.
 
 ---
 
-## 🛠️ Tools and Technologies Used
+##  Tools and Technologies Used
 
 - Canva (Infographic Design)  
 - GitHub (Project Repository)  
@@ -73,7 +73,7 @@ Prepared a case study on UPI/online payment fraud and created a prevention check
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 - Gained understanding of digital literacy and its importance  
 - Learned to create professional online profiles  
@@ -84,7 +84,7 @@ Prepared a case study on UPI/online payment fraud and created a prevention check
 
 ---
 
-## 📊 Conclusion
+##  Conclusion
 This project enhanced my knowledge of digital tools, online communication, and cyber safety. It helped me become a more responsible and aware digital user. The skills learned through this project will be beneficial for my academic journey and future career development.
 
 
